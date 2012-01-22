@@ -1,12 +1,12 @@
 /**
  *  ProtoClass.js – Standalone Prototype.js Class System.
- *  @author Seraf Dos Santos
+ *  By Seraf Dos Santos
  *  
- *  Prototype.js
- *  @author Sam Stephenson
- *  @copyright (c) 2005-2010 Sam Stephenson
- *  @version 1.7
- *  @license MIT License
+ *  From Prototype.js
+ *  Sam Stephenson
+ *  Copyright (c) 2005-2010 Sam Stephenson
+ *  version 1.7
+ *  MIT License
  */
 
 
