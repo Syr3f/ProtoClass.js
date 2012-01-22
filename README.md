@@ -9,6 +9,6 @@
 
 It's simply the ```Class``` function along with its utilitaries to create classes as we love to do with Prototype.js, except it doesn't come with the rest of the library.
 
-It's a fun little "Prototypal" functional library you're gonna love, if you liked to use ```Class.create``` along ```jQuery``` but couldn't tolerate to use two complete semi-redondant libraries.
+It's a fun little "Prototypal" functional library you're gonna love, if you liked to use ```Class.create``` along ```jQuery``` but couldn't tolerate to use two complete semi-redundant libraries.
 
 Enjoy!
